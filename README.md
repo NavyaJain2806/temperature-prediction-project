@@ -42,4 +42,19 @@ This project analyzes daily temperature trends from 2020 to September 2025 and p
 - Confirm error/accuracy metrics in output summary.
 - For troubleshooting, check that date columns are parsed correctly and column names match your files.
 
+## Screenshots
+
+### 1. Temperature Trend (2020 to Sept 2025)
+This plot shows the temperature trend over multiple years:
+![Temperature Trend]([https://user-images.githubusercontent.com/yourNUMBER/yourIMAGEID1.png](https://private-user-images.githubusercontent.com/229484934/517530952-709504b0-aee8-4ebf-8118-a985cac2580e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM3NDk4MjcsIm5iZiI6MTc2Mzc0OTUyNywicGF0aCI6Ii8yMjk0ODQ5MzQvNTE3NTMwOTUyLTcwOTUwNGIwLWFlZTgtNGViZi04MTE4LWE5ODVjYWMyNTgwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyMVQxODI1MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZTM2MWE2YWFkMWI2NTk3ZGE2MDgxMjcyYmEyNjVkMWI5NTg0ZWVhZDcyNjg4ZWRjMTczYTc0ZmM1MzczYzgwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oNAtkyNjE6l3H7C9cXT1nuCKxh1GclEd6LymMcZHjCo))
+
+### 2. Predicted vs Actual Table (October 2025)
+Table showing Date, Actual Temperature, Predicted Temperature, and Error:
+![Comparison Table](https://user-images.githubusercontent.com/yourNUMBER/yourIMAGEID2.png)
+
+### 3. Actual vs Predicted Temperature Plot (October 2025)
+Plot comparing actual and predicted temperatures for October 2025:
+![Actual vs Predicted Plot](https://user-images.githubusercontent.com/yourNUMBER/yourIMAGEID3.png)
+
+
 
