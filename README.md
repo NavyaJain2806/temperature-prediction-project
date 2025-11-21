@@ -49,11 +49,11 @@ This plot shows the temperature trend over multiple years:
 ![Temperature Trend](https://github.com/user-attachments/assets/709504b0-aee8-4ebf-8118-a985cac2580e)
 ### 2. Predicted vs Actual Table (October 2025)
 Table showing Date, Actual Temperature, Predicted Temperature, and Error:
-![Comparison Table](https://user-images.githubusercontent.com/yourNUMBER/yourIMAGEID2.png)
+![Comparison Table](https://github.com/user-attachments/assets/49832019-41d8-4f5e-9bcb-a9c32e332948)
 
 ### 3. Actual vs Predicted Temperature Plot (October 2025)
 Plot comparing actual and predicted temperatures for October 2025:
-![Actual vs Predicted Plot](https://user-images.githubusercontent.com/yourNUMBER/yourIMAGEID3.png)
+![Actual vs Predicted Plot](https://github.com/user-attachments/assets/00663cc7-babd-456e-ac2e-ff2366fc9b16)
 
 
 
