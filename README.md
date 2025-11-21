@@ -46,8 +46,7 @@ This project analyzes daily temperature trends from 2020 to September 2025 and p
 
 ### 1. Temperature Trend (2020 to Sept 2025)
 This plot shows the temperature trend over multiple years:
-![Temperature Trend](https://private-user-images.githubusercontent.com/229484934/517530952-709504b0-aee8-4ebf-8118-a985cac2580e.png)
-
+![Temperature Trend](https://github.com/user-attachments/assets/709504b0-aee8-4ebf-8118-a985cac2580e)
 ### 2. Predicted vs Actual Table (October 2025)
 Table showing Date, Actual Temperature, Predicted Temperature, and Error:
 ![Comparison Table](https://user-images.githubusercontent.com/yourNUMBER/yourIMAGEID2.png)
